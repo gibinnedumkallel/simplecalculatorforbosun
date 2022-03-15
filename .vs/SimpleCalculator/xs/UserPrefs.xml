@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{2CAAE4F8-105C-429B-96CB-42E680FC1982}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SimpleCalculator PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleCalculator/Dockerfile">
+    <Files>
+      <File FileName="SimpleCalculator.Tests/CalculatorApiTest.cs" Line="5" Column="1" />
+      <File FileName="SimpleCalculator.Tests/CalculatorTest.cs" Line="2" Column="32" />
+      <File FileName="SimpleCalculator/Controllers/CalculateController.cs" Line="7" Column="27" />
+      <File FileName="SimpleCalculator/Program.cs" Line="20" Column="24" />
+      <File FileName="SimpleCalculatorServices/CalculatorService.cs" Line="4" Column="2" />
+      <File FileName="SimpleCalculatorServices/Interfaces/ICalculatorService.cs" Line="1" Column="46" />
+      <File FileName="SimpleCalculator/Dockerfile" Line="23" Column="40" />
+      <File FileName="SimpleCalculator/docker-compose.yml" Line="8" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimpleCalculator" expanded="True">
+            <Node name="SimpleCalculator" expanded="True">
+              <Node name=".dockerignore" selected="True" />
+            </Node>
+            <Node name="SimpleCalculatorServices" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SimpleCalculator" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

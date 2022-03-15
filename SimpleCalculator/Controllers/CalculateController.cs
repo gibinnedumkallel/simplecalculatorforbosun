@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SimpleCalculator.Service.Interfaces;
+using SimpleCalculatorServices.Interfaces;
 
 namespace SimpleCalculator.Controllers
 {

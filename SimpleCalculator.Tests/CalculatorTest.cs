@@ -1,5 +1,5 @@
 ﻿using System;
-using SimpleCalculator.Service;
+using SimpleCalculator.Services;
 using Xunit;
 
 namespace SimpleCalculator.Tests;

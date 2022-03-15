@@ -1,6 +1,6 @@
 ﻿using Moq;
 using SimpleCalculator.Controllers;
-using SimpleCalculator.Service.Interfaces;
+using SimpleCalculatorServices.Interfaces;
 using Xunit;
 
 namespace SimpleCalculator.Tests;

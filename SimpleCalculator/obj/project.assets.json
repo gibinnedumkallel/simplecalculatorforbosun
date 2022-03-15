@@ -73,14 +73,14 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "SimpleCalculator.Service/1.0.0": {
+      "SimpleCalculatorServices/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/SimpleCalculator.Service.dll": {}
+          "bin/placeholder/SimpleCalculatorServices.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SimpleCalculator.Service.dll": {}
+          "bin/placeholder/SimpleCalculatorServices.dll": {}
         }
       }
     }
@@ -211,15 +211,15 @@
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
-    "SimpleCalculator.Service/1.0.0": {
+    "SimpleCalculatorServices/1.0.0": {
       "type": "project",
-      "path": "../SimpleCalculator.Service/SimpleCalculator.Service.csproj",
-      "msbuildProject": "../SimpleCalculator.Service/SimpleCalculator.Service.csproj"
+      "path": "../SimpleCalculatorServices/SimpleCalculatorServices.csproj",
+      "msbuildProject": "../SimpleCalculatorServices/SimpleCalculatorServices.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "SimpleCalculator.Service >= 1.0.0",
+      "SimpleCalculatorServices >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.3.0"
     ]
   },
@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator/SimpleCalculator.csproj",
+      "projectUniqueName": "/Users/gibin.nedumkallel/Projects/simplecalculatorforbosun/SimpleCalculator/SimpleCalculator.csproj",
       "projectName": "SimpleCalculator",
-      "projectPath": "/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator/SimpleCalculator.csproj",
+      "projectPath": "/Users/gibin.nedumkallel/Projects/simplecalculatorforbosun/SimpleCalculator/SimpleCalculator.csproj",
       "packagesPath": "/Users/gibin.nedumkallel/.nuget/packages/",
-      "outputPath": "/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator/obj/",
+      "outputPath": "/Users/gibin.nedumkallel/Projects/simplecalculatorforbosun/SimpleCalculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gibin.nedumkallel/.nuget/NuGet/NuGet.Config"
@@ -248,8 +248,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator.Service/SimpleCalculator.Service.csproj": {
-              "projectPath": "/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator.Service/SimpleCalculator.Service.csproj"
+            "/Users/gibin.nedumkallel/Projects/simplecalculatorforbosun/SimpleCalculatorServices/SimpleCalculatorServices.csproj": {
+              "projectPath": "/Users/gibin.nedumkallel/Projects/simplecalculatorforbosun/SimpleCalculatorServices/SimpleCalculatorServices.csproj"
             }
           }
         }

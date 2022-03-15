@@ -4,6 +4,8 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <DockerComposeProjectPath>../docker-compose.dcproj</DockerComposeProjectPath>
+    <UserSecretsId>3195b64d-3023-43af-a3fb-000c4867e0b1</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -17,8 +19,13 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SimpleCalculator.Service\SimpleCalculator.Service.csproj">
+    <ProjectReference Include="..\SimpleCalculatorServices\SimpleCalculatorServices.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="docker-compose.override.yml">
+      <DependentUpon>docker-compose.yml</DependentUpon>
+    </None>
   </ItemGroup>
 </Project>
