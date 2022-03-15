@@ -1,0 +1,12 @@
+/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator.Service/bin/Debug/net6.0/SimpleCalculator.Service.deps.json
+/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator.Service/bin/Debug/net6.0/SimpleCalculator.Service.dll
+/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator.Service/bin/Debug/net6.0/SimpleCalculator.Service.pdb
+/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator.Service/obj/Debug/net6.0/SimpleCalculator.Service.csproj.AssemblyReference.cache
+/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator.Service/obj/Debug/net6.0/SimpleCalculator.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator.Service/obj/Debug/net6.0/SimpleCalculator.Service.AssemblyInfoInputs.cache
+/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator.Service/obj/Debug/net6.0/SimpleCalculator.Service.AssemblyInfo.cs
+/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator.Service/obj/Debug/net6.0/SimpleCalculator.Service.csproj.CoreCompileInputs.cache
+/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator.Service/obj/Debug/net6.0/SimpleCalculator.Service.dll
+/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator.Service/obj/Debug/net6.0/refint/SimpleCalculator.Service.dll
+/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator.Service/obj/Debug/net6.0/SimpleCalculator.Service.pdb
+/Users/gibin.nedumkallel/Projects/SimpleCalculator/SimpleCalculator.Service/obj/Debug/net6.0/ref/SimpleCalculator.Service.dll
